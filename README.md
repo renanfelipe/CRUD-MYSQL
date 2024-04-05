@@ -1,7 +1,7 @@
 # CRUD-MYSQL
 Um Simples CRUD MySQL em Node.JS com uma interface front-end escrita em React.
 
-Esse CRUD foi implementado seguindo o tutorial (CRUD Full Stack com Node, React & MySQL)[https://www.youtube.com/watch?v=voXTVTW73E8]. 
+Esse CRUD foi implementado seguindo o tutorial [CRUD Full Stack com Node, React & MySQL](https://www.youtube.com/watch?v=voXTVTW73E8).
 
 Ele é bem simples, e é apenas um exercício para estudos sobre a utilização do banco de dados MySQL com Node.js.
 

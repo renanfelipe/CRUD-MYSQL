@@ -33,3 +33,5 @@ INSERT INTO `usuarios` (`id`, `nome`, `email`, `fone`, `data_nascimento`) VALUES
 
 Depois entre na pasta API, altere o arquivo ```db.js``` com as informações sobre o seu banco de dados e depois rode ```yarn start```.
 Em outro terminal entre na pasta frontend e rode ```yarn start```. O site escrito em react rodará em http://localhost:3000
+
+![Website rodando](react.png)
